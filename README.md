@@ -1,4 +1,6 @@
-##Easy Run cocos2d-x-3.x in Eclipse 
+##Easy Run cocos2d-x-3.0 in Eclipse 
+
+**New!! The code Most of this template has pull request to cocos2d-x origin, and have merged after v3.1.  But you can still use it by more features.** 
 
 Cocos2d-x Official's Android project template is incorrect. so,I fix it, You can easy run cocos2d-x-3.x in eclipse by two steps !!!
 
