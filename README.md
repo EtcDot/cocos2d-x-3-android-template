@@ -62,6 +62,10 @@ You need download ant at first,also confim you have install correct android sdk 
 4. Add libcocos2d as a link directory
     
     `you need not to add libcocos2d any more.`
+
+5. Support STL Indexer 
+    
+    `I use gun-libc++ 4.8, you can change it at Project->Properties->Paths and Symbols->Includes if you do not have this version. `
     
 ### To do List
 

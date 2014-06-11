@@ -41,6 +41,7 @@
 									<listOptionValue builtIn="false" value="${NDK_ROOT}/sources/android/native_app_glue"/>
 									<listOptionValue builtIn="false" value="${NDK_ROOT}/platforms/android-18/arch-arm/usr/include"/>
 									<listOptionValue builtIn="false" value="${NDK_ROOT}/sources/cxx-stl/gnu-libstdc++/4.8/include"/>
+									<listOptionValue builtIn="false" value="${NDK_ROOT}/sources/cxx-stl/gnu-libstdc++/4.8/libs/armeabi-v7a/include"/>
 									<listOptionValue builtIn="false" value="${ProjDirPath}/../cocos2d"/>
 									<listOptionValue builtIn="false" value="${ProjDirPath}/../cocos2d/cocos/2d"/>
 									<listOptionValue builtIn="false" value="${ProjDirPath}/../cocos2d/cocos"/>
